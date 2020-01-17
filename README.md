@@ -12,3 +12,5 @@ This contains some colorsync profiles for the monitors I used.
 Since monitors should be calibrated individually, these profiles work best on my monitors only. Some of them have models no. in the file name, while the others has generic name like "Color LCD" because this is what the Macbook hardware reports.
 
 The profiles in `Profile/` needed to be put in `~/Library/ColorSync/Profiles`. If you run `install.sh`, it will **delete** the `~/Library/ColorSync/Profiles` and symlink it into `Profile/` in this folder.
+
+Note that `i1studio.app` doesn't like symlink. So on those computers `sync.sh` can be used instead.
