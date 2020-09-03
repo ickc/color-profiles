@@ -1,6 +1,7 @@
 ﻿brand,model,brightness,contrast,temperature,sharpness,response_time,gamma,Backlight,HDMI-black-level,filename
-HP,27bw,35,80,6500,3,,,,,""
-LG,29UM68-P,63,80,Warm,50,Middle,Gamma 1,,,""
-Dell,P2715Q,43,80,,50,Normal,,,,""
+HP,27bw,35,80,6500,3,,,,,
+LG,29UM68-P,63,80,Warm,50,Middle,Gamma 1,,,
+Dell,P2715Q,43,80,,50,Normal,,,,
 Samsung,UN40MU6290,5,100,Warm2,50,,ST2084,18,,SAMSUNG_20200831.icc
 Samsung,UN40MU6290,0,98,Warm2,50,,BT.1886,10,Low (limited),SAMSUNG_20200902.icc
+Samsung,UN40MU6290,0,100,Warm2,50,,BT.1886,10,Normal (full),SAMSUNG_20200902_full.icc
