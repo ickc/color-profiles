@@ -1,7 +1,7 @@
 ﻿brand,model,brightness,contrast,temperature,sharpness,response_time,gamma,Backlight,HDMI-black-level,R-Gain,G-Gain,B-Gain,filename
 HP,27bw,35,80,6500,3,,,,,,,,
-LG,29UM68-P,71,80,Medium,50,Middle,Gamma 1,,,,,,
-Dell,P2715Q,40,94,,50,Normal,,,,89,100,100,DELL P2715Q_20211003_D65_120.icc
+LG,29UM68-P,51,86,Custom,50,Middle,Off,,,50,50,26,LG ULTRAWIDE_20220226_D65_120.icc
+Dell,P2715Q,39,93,,50,Normal,,,,90,100,100,DELL P2715Q_20220226_D65_120.icc
 Samsung,UN40MU6290,5,100,Warm2,50,,ST2084,18,,,,,SAMSUNG_20200831.icc
 Samsung,UN40MU6290,0,98,Warm2,50,,BT.1886,10,Low (limited),,,,SAMSUNG_20200902.icc
 Samsung,UN40MU6290,0,100,Warm2,50,,BT.1886,10,Normal (full),,,,SAMSUNG_20200902_full2.icc
