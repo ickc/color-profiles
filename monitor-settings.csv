@@ -1,10 +1,12 @@
-﻿brand,model,brightness,contrast,temperature,sharpness,response_time,gamma,Backlight,HDMI-black-level,R-Gain,G-Gain,B-Gain,filename
-HP,27bw,35,80,6500,3,,,,,,,,
-LG,29UM68-P,51,86,Custom,50,Middle,Off,,,50,50,26,LG ULTRAWIDE_20220226_D65_120.icc
-Dell,P2715Q,39,93,,50,Normal,,,,90,100,100,DELL P2715Q_20220226_D65_120.icc
-Samsung,UN40MU6290,5,100,Warm2,50,,ST2084,18,,,,,SAMSUNG_20200831.icc
-Samsung,UN40MU6290,0,98,Warm2,50,,BT.1886,10,Low (limited),,,,SAMSUNG_20200902.icc
-Samsung,UN40MU6290,0,100,Warm2,50,,BT.1886,10,Normal (full),,,,SAMSUNG_20200902_full2.icc
-Samsung,UN40MU6290,0,100,Warm2,50,,BT.1886,7,Normal (full),,,,SAMSUNG_20200902_dci-p3.icc
-Samsung,UN40MU6290,0,100,Warm1,50,,BT.1886,20,Normal (full),-16,5,-5,SAMSUNG_20200902_D65_native_sRGB.icc
-Samsung,UN40MU6290,0,100,Warm1,50,,BT.1886,11,Normal (full),-16,5,-5,SAMSUNG_20200902_D65_120.icc
+﻿brand,model,interface,brightness,contrast,temperature,sharpness,response_time,gamma,Backlight,HDMI-black-level,R-Gain,G-Gain,B-Gain,filename
+HP,27bw,HDMI,35,80,6500,3,,,,,,,,
+LG,29UM68-P,DisplayPort,51,86,Custom,50,Middle,Off,,,50,50,26,LG ULTRAWIDE_20220226_D65_120.icc
+LG,29UM68-P,HDMI,50,80,Custom,50,Middle,Off,,,100,50,10,
+Dell,P2715Q,MiniDisplayPort,39,93,,50,Normal,,,,90,100,100,DELL P2715Q_20220226_D65_120.icc
+Dell,P2715Q,HDMI,38,90,,50,Normal,,,,85,100,100,
+Samsung,UN40MU6290,HDMI,5,100,Warm2,50,,ST2084,18,,,,,SAMSUNG_20200831.icc
+Samsung,UN40MU6290,HDMI,0,98,Warm2,50,,BT.1886,10,Low (limited),,,,SAMSUNG_20200902.icc
+Samsung,UN40MU6290,HDMI,0,100,Warm2,50,,BT.1886,10,Normal (full),,,,SAMSUNG_20200902_full2.icc
+Samsung,UN40MU6290,HDMI,0,100,Warm2,50,,BT.1886,7,Normal (full),,,,SAMSUNG_20200902_dci-p3.icc
+Samsung,UN40MU6290,HDMI,0,100,Warm1,50,,BT.1886,20,Normal (full),-16,5,-5,SAMSUNG_20200902_D65_native_sRGB.icc
+Samsung,UN40MU6290,HDMI,0,100,Warm1,50,,BT.1886,11,Normal (full),-16,5,-5,SAMSUNG_20200902_D65_120.icc
