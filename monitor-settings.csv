@@ -12,3 +12,4 @@ Samsung,UN40MU6290,HDMI,0,100,Warm1,50,,BT.1886,20,Normal (full),-16,5,-5,SAMSUN
 Samsung,UN40MU6290,HDMI,0,100,Warm1,50,,BT.1886,11,Normal (full),-16,5,-5,SAMSUNG_20200902_D65_120.icc,
 Apple,MBA-M2,internal,12,,,,,,,,,,,Color LCD_20220830_D65_120_MBA-M2.icc,
 Apple,MBA-M2,internal,,,,,,,,,,,,Color LCD_20220830_native_MBA-M2.icc,"For true tone; visually indiscenable from factory ""Color LCD"" calibration"
+LG,DualUp,USB-C,33,70,Custom,50,Fast,Mode 2,,,50,50,48,LG SDQHD_08-10-2022_D65_120.icc,Uncheck HDR in settings.
